@@ -117,3 +117,10 @@ Developer's Documentation :
 Refer this document for explained and elaborated documentaion for SOCIOBOARD 4.0 
 
 * **[Socioboard-4.0 DOC](https://docs.google.com/document/d/10G0fhDcxmOLtxa0rWWS78JfMVdqMn7oAn-85O-ev0q8)**
+
+Why we forked this project ?
+===========================
+
+* To look at the source and documentation
+* Then we'll write it from scratch
+* Thanks for your contribution and Happy Hacking!
